@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\WebApi-Livros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C173A528-12C8-4A20-A923-91CE5C8858AD}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos\\webapi-livros\\webapi-livros\\services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C173A528-12C8-4A20-A923-91CE5C8858AD}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C173A528-12C8-4A20-A923-91CE5C8858AD}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos\\webapi-livros\\webapi-livros\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C173A528-12C8-4A20-A923-91CE5C8858AD}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C173A528-12C8-4A20-A923-91CE5C8858AD}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos\\webapi-livros\\webapi-livros\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C173A528-12C8-4A20-A923-91CE5C8858AD}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C173A528-12C8-4A20-A923-91CE5C8858AD}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos\\webapi-livros\\webapi-livros\\dto\\livro\\livroedicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C173A528-12C8-4A20-A923-91CE5C8858AD}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\dto\\livro\\livroedicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C173A528-12C8-4A20-A923-91CE5C8858AD}|WebApi-Livros\\WebApi-Livros.csproj|d:\\projetos\\webapi-livros\\webapi-livros\\dto\\livro\\livrocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C173A528-12C8-4A20-A923-91CE5C8858AD}|WebApi-Livros\\WebApi-Livros.csproj|solutionrelative:webapi-livros\\dto\\livro\\livrocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivroEdicaoDto.cs",
+              "DocumentMoniker": "D:\\Projetos\\WebApi-Livros\\WebApi-Livros\\Dto\\Livro\\LivroEdicaoDto.cs",
+              "RelativeDocumentMoniker": "WebApi-Livros\\Dto\\Livro\\LivroEdicaoDto.cs",
+              "ToolTip": "D:\\Projetos\\WebApi-Livros\\WebApi-Livros\\Dto\\Livro\\LivroEdicaoDto.cs",
+              "RelativeToolTip": "WebApi-Livros\\Dto\\Livro\\LivroEdicaoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:16:23.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LivroCriacaoDto.cs",
+              "DocumentMoniker": "D:\\Projetos\\WebApi-Livros\\WebApi-Livros\\Dto\\Livro\\LivroCriacaoDto.cs",
+              "RelativeDocumentMoniker": "WebApi-Livros\\Dto\\Livro\\LivroCriacaoDto.cs",
+              "ToolTip": "D:\\Projetos\\WebApi-Livros\\WebApi-Livros\\Dto\\Livro\\LivroCriacaoDto.cs",
+              "RelativeToolTip": "WebApi-Livros\\Dto\\Livro\\LivroCriacaoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:14:45.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "D:\\Projetos\\WebApi-Livros\\WebApi-Livros\\Services\\Livro\\LivroService.cs",
+              "RelativeDocumentMoniker": "WebApi-Livros\\Services\\Livro\\LivroService.cs",
+              "ToolTip": "D:\\Projetos\\WebApi-Livros\\WebApi-Livros\\Services\\Livro\\LivroService.cs",
+              "RelativeToolTip": "WebApi-Livros\\Services\\Livro\\LivroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:09:10.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "D:\\Projetos\\WebApi-Livros\\WebApi-Livros\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "WebApi-Livros\\Controllers\\LivroController.cs",
+              "ToolTip": "D:\\Projetos\\WebApi-Livros\\WebApi-Livros\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "WebApi-Livros\\Controllers\\LivroController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:56:59.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "D:\\Projetos\\WebApi-Livros\\WebApi-Livros\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "WebApi-Livros\\Controllers\\AutorController.cs",
+              "ToolTip": "D:\\Projetos\\WebApi-Livros\\WebApi-Livros\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "WebApi-Livros\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:56:19.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
